@@ -10,7 +10,6 @@
 ### Tutorial 1
 This notebook goes through the basics of data acquisition, pre-processing, matched filtering and signal consistency tests using `PyCBC`.
 
-
 ### Tutorial 2
 This notebook uses `bilby`/`PyCBC` to demonstrate GW parameter inference for real observed data as well as simulated GW data from compact binary mergers.
 
